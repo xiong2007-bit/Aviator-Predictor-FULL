@@ -57,7 +57,7 @@ I advise you to use this vehicle without attracting attention. Or your account m
 
 Feel free to contribute by forking the repository and submitting pull requests.
 
-### License
+### Licensed 
 
 This project is licensed under the [MIT License](LICENSE).
 
